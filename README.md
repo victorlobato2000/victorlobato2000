@@ -14,7 +14,15 @@
   <img align="center" alt="Victor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Victor-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 </div><br><br>
-  
+
+##
+  * 💻📚 I'm currently majoring in Networking at college
+  * 💻 I'm a Software Developer
+  * 🧠 Languages:
+          Portuguese - Native;
+          English - Advanced;
+          Spanish - Intermeadiate;
+          French - Beginner-Intermediate.
 ##
 <div> 
  
