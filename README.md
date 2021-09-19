@@ -16,8 +16,10 @@
 </div><br><br>
 
 ##
-  * 💻📚 I'm currently majoring in Networking at college
+  * 💻📚 I'm a Network Analyst
   * 💻 I'm a Software Developer
+  * ✨ I'm 20 years old
+  * 🎨 I'm a Designer 
   * 🧠 Languages:
           Portuguese - Native;
           English - Advanced;
