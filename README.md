@@ -16,15 +16,21 @@
 </div><br><br>
 
 ##
-  * 💻📚 I'm a Network Analyst
-  * 💻 I'm a Software Developer
-  * ✨ I'm 20 years old
-  * 🎨 I'm a Designer 
+  * 💻📚 I graduated as a Network Engineer from college in 2021
+  * 💻 I'm a Software Engineer
+  * ✨ I'm 21 years old
+  * 🎨 I'm a Graphic Designer 
   * 🧠 Languages:
           Portuguese - Native;
           English - Advanced;
           Spanish - Intermeadiate;
-          French - Beginner-Intermediate.
+          French - Beginner-Intermediate;
+          Chinese - Beginner.
+  * Technologies I've been working and studying:
+          HTML5, CSS3 (SASS), Bootstrap 4, Angular Material, AngularJs and Javascript-Typescript;
+          Java, Spring boot, Spring Data JPA, Spring Cloud, Spring Security and Spring MVC, JPQL;
+          MySQL, PostgreSQL, SQL SERVER, MongoDB;
+          AWS, DOCKER.
 ##
 <div> 
  
