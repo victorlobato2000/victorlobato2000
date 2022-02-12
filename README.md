@@ -12,6 +12,7 @@
 - 💻 MBA in Software Engineering
 - 💻 Software Engineer at 7COMm
 - 🗺️ Canindé - CE
+- 💬 Portuguese: Native; English: Advanced-Fluent; Spanish: Intermediate-Advanced; French: Beginner-Intermediate.
 
 <h2>📃 Stats</h2>
 
